@@ -8,7 +8,7 @@ Cosmic is a new proxy with insane speeds with a growing game library and setting
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/gamingreborn/cosmic)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/gamingreborn/cosmic)
-[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://github.com/gamingreborn/cosmic/railway.md)
+[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://github.com/GamingReborn/cosmic/blob/main/railway.md)
 
 ## Credits
 
