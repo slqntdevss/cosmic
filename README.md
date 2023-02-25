@@ -13,8 +13,13 @@ Cosmic is a new proxy with insane speeds with a growing game library and setting
 ## Credits
 
 slqnted#7055 - me, lead dev for cosmic and founder
+
 JustJ_rdan#5273 - co-founder and help with games
+
 saturn space dev team - everything else
+
 Titanium Network - ultraviolet
+
 shuttle - all the now.gg games
+
 you - for using our website
