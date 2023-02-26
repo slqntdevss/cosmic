@@ -5,7 +5,7 @@
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
-    "node": ">=18.0.0"
+    "node": ">=16.0.0"
   },
   "scripts": {
     "start": "node src/index.js"
@@ -16,14 +16,13 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^1.0.8-beta",
-    "@tomphttp/bare-server-node": "^1.2.5",
-    "cosmic-static": "github:gamingreborn/cosmic-static",
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.5",
+    "@tomphttp/bare-server-node": "^1.2.2",
     "express": "^4.18.2",
-    "uv-app": "github:GamingReborn/cosmic-static"
+    "cosmic-static": "github:gamingreborn/cosmic-static"
   },
   "devDependencies": {
-    "eslint": "^8.32.0",
-    "prettier": "^2.8.3"
+    "eslint": "^8.23.1",
+    "prettier": "^2.7.1"
   }
 }
