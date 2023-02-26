@@ -16,6 +16,11 @@ app.use(express.static(publicPath));
 app.use("/uv/", express.static(uvPath));
 
 // Error for everything else
+app.use((req, res) => {
+  res.status(404);
+  res.sendFile(join(publicPath, "404.html"));
+});
+
 const server = createServer();
 
 server.on("request", (req, res) => {
