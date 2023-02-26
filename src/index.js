@@ -1,7 +1,7 @@
 import createBareServer from "@tomphttp/bare-server-node";
 import express from "express";
 import { createServer } from "node:http";
-import { publicPath } from "@gamingreborn/cosmic-static";
+import { publicPath } from "cosmic-static";
 import { uvPath } from "@titaniumnetwork-dev/ultraviolet";
 import { join } from "node:path";
 import { hostname } from "node:os";
@@ -16,11 +16,6 @@ app.use(express.static(publicPath));
 app.use("/uv/", express.static(uvPath));
 
 // Error for everything else
-app.use((req, res) => {
-  res.status(404);
-  res.sendFile(join(publicPath, "404.html"));
-});
-
 const server = createServer();
 
 server.on("request", (req, res) => {
