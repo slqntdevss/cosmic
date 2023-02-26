@@ -19,7 +19,7 @@
     "@titaniumnetwork-dev/ultraviolet": "^1.0.8-beta",
     "@tomphttp/bare-server-node": "^1.2.5",
     "express": "^4.18.2",
-    "cosmic-static": "github:gamingreborn/cosmic-main"
+    "cosmic-static": "github:gamingreborn/cosmic-static"
   },
   "devDependencies": {
     "eslint": "^8.32.0",
