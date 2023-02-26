@@ -5,7 +5,7 @@
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
-    "node": ">=18.0.0"
+    "node": ">=16.0.0"
   },
   "scripts": {
     "start": "node src/index.js"
@@ -18,9 +18,8 @@
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^1.0.8-beta",
     "@tomphttp/bare-server-node": "^1.2.5",
-    "cosmic-static": "github:gamingreborn/cosmic-static",
     "express": "^4.18.2",
-    "uv-app": "github:GamingReborn/cosmic-static"
+    "cosmic-static": "github:gamingreborn/cosmic-main"
   },
   "devDependencies": {
     "eslint": "^8.32.0",
