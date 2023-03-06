@@ -18,6 +18,8 @@ JustJ_rdan#5273 - co-founder and help with games
 
 saturn space dev team - everything else
 
+3kh0.github.io - games for the game page
+
 Titanium Network - ultraviolet
 
 shuttle - all the now.gg games
